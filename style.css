@@ -1,0 +1,10 @@
+header{
+    background-color: blue;
+    color: cornsilk;
+    display:flex ;
+    justify-content: space-around;
+}
+
+.cabeçalho-imagem{
+    width: 20px;;
+}
